@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techwebsite/static/css/main.77178b62.css",
+    "main.js": "/techwebsite/static/js/main.196d480b.js",
+    "static/js/787.61eee022.chunk.js": "/techwebsite/static/js/787.61eee022.chunk.js",
+    "static/media/img.png": "/techwebsite/static/media/img.dbef320f57fe4437ee5d.png",
+    "static/media/support-modified.png": "/techwebsite/static/media/support-modified.b2d289abe243d8db49d4.png",
+    "static/media/sw.jpg": "/techwebsite/static/media/sw.d967abb58fda25fe9842.jpg",
+    "static/media/ios.jpg": "/techwebsite/static/media/ios.44f7fb68ee186e0cda7d.jpg",
+    "static/media/maintenance.png": "/techwebsite/static/media/maintenance.4ee6e6ed27af6f3f42b1.png",
+    "static/media/game.jpg": "/techwebsite/static/media/game.ed048c721a7a18520c71.jpg",
+    "static/media/app.webp": "/techwebsite/static/media/app.440ede81d06411f22c5a.webp",
+    "static/media/web1.webp": "/techwebsite/static/media/web1.fb449e24554e6c8ccd38.webp",
+    "index.html": "/techwebsite/index.html",
+    "main.77178b62.css.map": "/techwebsite/static/css/main.77178b62.css.map",
+    "main.196d480b.js.map": "/techwebsite/static/js/main.196d480b.js.map",
+    "787.61eee022.chunk.js.map": "/techwebsite/static/js/787.61eee022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77178b62.css",
+    "static/js/main.196d480b.js"
+  ]
+}

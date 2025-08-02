@@ -1,20 +1,21 @@
 import React from 'react'
-
 import { NavLink } from 'react-router-dom'
 
 export default function Card(props) {
   return (
     <>
-        <div className='col-md-4 col-10 mx-auto'>
-                <div class="card" style={{ width: "18rem" }}>
-                  <img src={props.imgsrc} class="card-img-top" alt="..." />
-                  <div class="card-body">
-                    <h5 class="card-title">{props.title}</h5>
-                    <p class="card-text">{props.description}</p>
-                    <NavLink to="" class="btn btn-primary">Go somewhere</NavLink>
-                  </div>
-                </div>
-              </div>
+      <div className="service-card h-100">
+        <div className="card-image mb-3">
+          <img src={props.imgsrc} className="card-img-top" alt={props.title} />
+        </div>
+        <div className="card-body">
+          <h5 className="card-title mb-3">{props.title}</h5>
+          <p className="card-text mb-4">{props.description}</p>
+          <NavLink to="/contact" className="btn btn-primary">
+            Get Started <i className="fas fa-arrow-right ms-2"></i>
+          </NavLink>
+        </div>
+      </div>
     </>
   )
 }
